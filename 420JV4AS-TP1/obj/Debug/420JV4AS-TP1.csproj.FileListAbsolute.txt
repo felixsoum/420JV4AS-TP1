@@ -1,0 +1,7 @@
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\bin\Debug\420JV4AS-TP1.exe.config
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\bin\Debug\420JV4AS-TP1.exe
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\bin\Debug\420JV4AS-TP1.pdb
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\obj\Debug\420JV4AS-TP1.csprojResolveAssemblyReference.cache
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\obj\Debug\420JV4AS-TP1.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\obj\Debug\420JV4AS-TP1.exe
+C:\Users\felix\Desktop\420JV4AS\420JV4AS-TP1\420JV4AS-TP1\obj\Debug\420JV4AS-TP1.pdb
